@@ -11,8 +11,9 @@ After careful consideration, we have chosen to leverage Firebase for its range o
 Firebase offer lots of tools and solution for complete backend service in their own. It's provide scalability in later. developer can start without cost and can extended their own budget later.
 
 ## Consequences
-Pros – What becomes easier?
-Cons – What becomes more difficult?
+Pros – Firebase is powerful platform for mobile app development and strong backend for new developer and comprehensive set of features and services that can accelerate development and simplify backend infrastructure management.
+
+Cons – Carefully consider requirement and potential before commited project in firebase.
 
 ## Sample code
 Give some sample code related to this decision.

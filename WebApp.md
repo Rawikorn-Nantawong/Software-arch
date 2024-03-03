@@ -12,8 +12,9 @@ Firebase provides a comprehensive set of tools and services that can significant
 Why do we choose this solution?
 
 ## Consequences
-Pros – What becomes easier?
-Cons – What becomes more difficult?
+Pros – Firebase, backed by Google, making it a powerful tool for web applications. It's especially beneficial for newbie programmers, as it's user-friendly and free. This platform allows beginners to grasp how their apps function in world scenarios
+
+Cons – for projects requiring intricate backend setups, Firebase might not be the best fit.
 
 ## Sample code
 Give some sample code related to this decision.
